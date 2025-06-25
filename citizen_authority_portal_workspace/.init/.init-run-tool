@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/civicsense-hub-135-7fc920ae/citizen_authority_portal_workspace/citizen_authority_portal"
+}
